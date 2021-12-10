@@ -1,7 +1,7 @@
 ### Hello World ! 👋🏻👋🏻👋🏻👋🏻👋🏻
 
 Kumar Shanu here,
-- 🧑🏻‍💻  Welcome to one repo of one of the most over excited and enthusiastic "lover of tech"!
+- 🧑🏻‍💻  Welcome to the repo of one of the most, over excited and enthusiastic "lover of tech"!
 - 📚  Always ready to learn stuff.
 - 🔭 I’m currently working on small web development projects.
 - 🌱 I’m currently learning the backend frame works using nodejs.
