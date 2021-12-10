@@ -6,7 +6,7 @@ Kumar Shanu here,
 - 🔭 I’m currently working on small web development projects.
 - 🌱 I’m currently learning the backend frame works using nodejs.
 - 👯 I’m looking forward to contribute in open source.
-- 📫 You can reach me through my mail kumarshanuperson@gmail.com.
+- 📫 You can reach me through my mail : kumarshanuperson@gmail.com.
 - ⚡ Fun fact: I am a learner and wants to be the same throughout my life 😉.
 - 🤗 Queries are always appreciated.
 - 😊 Thankyou!!!
