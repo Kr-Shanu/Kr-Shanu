@@ -37,6 +37,11 @@
 ### 📺  Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Notion in one shot!! Let&#39;s learn notion in a nutshell! @NotionHQ #learningBasics](https://www.youtube.com/watch?v=4R05b31mIpM)
+- [Free  Open Source Circuit Simulator Falstad #Circuit #simulator](https://www.youtube.com/watch?v=g2GzQ5u3XFQ)
+- [Learn Basic Terminal command. Run python program in terminal and many more #Terminal #Command #Mac](https://www.youtube.com/watch?v=CpqTt2sU_V4)
+- [Transform your terminal according to your desire, noob to pro #Mac #Terminal](https://www.youtube.com/watch?v=291JHWA8ijY)
+- [Github basics - repository, create, edit , branching , pull and merge. #GitHub](https://www.youtube.com/watch?v=EARzUuABKYI)
 <!-- YOUTUBE:END -->
 
 ---
