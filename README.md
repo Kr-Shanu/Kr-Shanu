@@ -50,14 +50,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kr-Shanu's GitHub Language Stats" src="https://github.com/Kr-Shanu/github-readme-stats" />
-
-</details>
-
-
 
 [twitter]: https://twitter.com/kumar_____shanu
 [youtube]: https://www.youtube.com/results?search_query=college+tech+with+shanu
