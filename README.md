@@ -50,33 +50,10 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-Shanu)](https://github.com/Kr-Shanu/github-readme-stats)
-
-
-
-
-
-
-
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/1) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#1](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/1) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Kr-Shanu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kr-Shanu&show_icons=true&hide_border=true" />
+  <img align="left" alt="Kr-Shanu's GitHub Language Stats" src="https://github.com/Kr-Shanu/github-readme-stats" />
 
 </details>
 
