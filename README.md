@@ -34,7 +34,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺  Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
