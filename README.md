@@ -46,6 +46,15 @@
 
 ---
 
+![Kr-Shanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr-Shanu&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
+
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
