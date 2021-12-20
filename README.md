@@ -48,6 +48,11 @@
 
 ![Kr-Shanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr-Shanu&show_icons=true&theme=highcontrast&hide_border=true)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-Shanu)](https://github.com/Kr-Shanu/github-readme-stats)
+
+
 
 
 
