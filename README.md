@@ -46,7 +46,7 @@
 
 ---
 
-![Kr-Shanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr-Shanu&show_icons=true&theme=tokyonight)
+![Kr-Shanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr-Shanu&show_icons=true&theme=highcontrast)
 
 
 
