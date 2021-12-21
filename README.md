@@ -12,10 +12,17 @@
 ### Connect with me:
 
 
+<<<<<<< HEAD
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+=======
+[<img align="left" alt="kumar_____shanu | YouTube" width="22px" src="https://w7.pngwing.com/pngs/936/468/png-transparent-youtube-logo-youtube-logo-computer-icons-subscribe-angle-rectangle-airplane.png" />][youtube]
+[<img align="left" alt="kumar_____shanu | Twitter" width="22px" src="https://e7.pngegg.com/pngimages/708/311/png-clipart-icon-logo-twitter-logo-twitter-logo-blue-social-media-thumbnail.png" />][twitter]
+[<img align="left" alt="kumar_____shanu | LinkedIn" width="22px" src="https://icon-library.com/images/linkedin-vector-icon/linkedin-vector-icon-4.jpg" />][linkedin]
+[<img align="left" alt="kumar_____shanu | Instagram" width="22px" src="https://www.sharpfilms.co.uk/wp-content/uploads/2020/12/7172161b580470deb78078669236d2c1.jpg" />][instagram]
+>>>>>>> a06bf5412f9ec7dd9160346202344f46b8d1be3c
 
 <br />
 
@@ -27,7 +34,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
