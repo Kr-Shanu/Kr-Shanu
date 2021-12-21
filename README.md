@@ -13,7 +13,7 @@
 
 
 [<img align="left" alt="kumar_____shanu | YouTube" width="22px" src="https://www.pinclipart.com/picdir/middle/72-729738_youtube-red-circle-circle-youtube-logo-png-clipart.png" />][youtube]
-[<img align="left" alt="kumar_____shanu | Twitter" width="22px" src="https://png.pngtree.com/element_our/sm/20180626/sm_5b32227ca3eb9.jpg" />][twitter]
+[<img align="left" alt="kumar_____shanu | Twitter" width="22px" src="https://www.vhv.rs/dpng/d/409-4097837_transparent-background-twitter-logo-hd-png-download.png" />][twitter]
 [<img align="left" alt="kumar_____shanu | LinkedIn" width="22px" src="https://icon-library.com/images/linkedin-vector-icon/linkedin-vector-icon-4.jpg" />][linkedin]
 [<img align="left" alt="kumar_____shanu | Instagram" width="22px" src="https://www.sharpfilms.co.uk/wp-content/uploads/2020/12/7172161b580470deb78078669236d2c1.jpg" />][instagram]
 
