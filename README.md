@@ -14,7 +14,7 @@
 [<img align="left" alt="kumar_____shanu | YouTube" width="22px" src="/youtube.png" />][youtube]
 [<img align="left" alt="kumar_____shanu | Twitter" width="22px" src="/twitter.png" />][twitter]
 [<img align="left" alt="kumar_____shanu | LinkedIn" width="22px" src="https://icon-library.com/images/linkedin-vector-icon/linkedin-vector-icon-4.jpg" />][linkedin]
-[<img align="left" alt="kumar_____shanu | Instagram" width="22px" src="https://www.sharpfilms.co.uk/wp-content/uploads/2020/12/7172161b580470deb78078669236d2c1.jpg" />][instagram]
+[<img align="left" alt="kumar_____shanu | Instagram" width="22px" src="/insta.png" />][instagram]
 
 
 <br />
