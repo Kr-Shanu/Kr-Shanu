@@ -52,6 +52,6 @@
 
 
 [twitter]: https://twitter.com/kumar_____shanu
-[youtube]: https://www.youtube.com/results?search_query=college+tech+with+shanu
+[youtube]: https://www.youtube.com/channel/UCnT6Z9ay-snq1c0lZkEtYjg
 [instagram]: https://www.instagram.com/kumar_____shanu/
 [linkedin]: https://www.linkedin.com/in/kumar-shanu-011423189/
