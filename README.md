@@ -11,10 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kumar_____shanu | YouTube" width="28px" src="/youtube.png" />][youtube]
-[<img align="left" alt="kumar_____shanu | Twitter" width="28px" src="/twitter.png" />][twitter]
 [<img align="left" alt="kumar_____shanu | LinkedIn" width="28px" src="https://icon-library.com/images/linkedin-vector-icon/linkedin-vector-icon-4.jpg" />][linkedin]
-[<img align="left" alt="kumar_____shanu | Instagram" width="28px" src="/insta.png" />][instagram]
+
 
 
 <br />
