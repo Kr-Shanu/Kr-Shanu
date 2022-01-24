@@ -77,9 +77,6 @@
     <a href="https://github.com/Kr-Shanu/>
 <img alt="Priyam Shankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kr-Shanu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
-
 ---
   ### Streak
   
