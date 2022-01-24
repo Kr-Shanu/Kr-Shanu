@@ -9,25 +9,44 @@
 - 📫 You can reach me through my mail : kumarshanupersonal@gmail.com.
 - ⚡ Fun fact: I am a learner and wants to be the same throughout my life 😉.
 
+<br>
+
 ### Connect with me:
 
 [<img align="left" alt="kumar_____shanu | LinkedIn" width="28px" src="https://icon-library.com/images/linkedin-vector-icon/linkedin-vector-icon-4.jpg" />][linkedin]
 
+<br>
+<br>
 
-
-<br />
-
+---
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+<!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+
+    
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+
+
+
+
+
 <br />
-<br />
+
+
+
+
 
 ---
 
@@ -46,14 +65,12 @@
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center>
     <a href="https://github.com/Kr-Shanu/"><img alt="Priyam Shankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kr-Shanu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p>
-  <p align="center>
+
   <a href="https://github.com/Kr-Shanu/"><img alt="Priyam Shankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr-Shanu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+
 
 <br/>
 <br/>
@@ -63,9 +80,8 @@
 <br/>
 <br/>
 
-
 ---
-  ### streak
+  ### Streak
   
   <p align="center">
     <a href="https://github.com/Kr-Shanu/>
@@ -80,13 +96,11 @@
 </p>
 
 
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Kr-Shanu">
 </a>
 <a href="https://github.com/Kr-Shanu?tab=followers"><img src="https://img.shields.io/github/followers/Kr-Shanu?label=Followers&style=social" alt="GitHub Badge"></a>
----
 
 ---
 
