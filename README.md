@@ -61,6 +61,22 @@
 <br/>
 
 
+---
+  ### streak
+  
+  <p align="center">
+    <a href="https://github.com/Kr-Shanu/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyam Shankar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kr-Shanu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+                                                                                                     
+<p align="center">
+    <a href="https://github.com/Kr-Shanu/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyam Shankar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kr-Shanu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
