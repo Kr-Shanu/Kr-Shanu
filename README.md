@@ -1,6 +1,7 @@
 ### Hi there, I'm Shanu 👋 
 ## I'm an over excited and enthusiastic "lover of tech"!
 
+<br>
 
 - 📚  Always eager to learn stuff.
 - 🔭 I’m currently working on small web development projects.
@@ -32,6 +33,7 @@
 
 <!-- languages and tools -->
 
+<br>
 
 <img align="left" alt="c++" width="64px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" />
 <img align="left" alt="html" width="64px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-1024.png" />
