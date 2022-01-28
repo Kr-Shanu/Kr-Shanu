@@ -20,7 +20,6 @@
 [<img align="left" alt="kumar_____shanu | LinkedIn" width="64px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-1024.png" />][youtube]
 [<img align="left" alt="kumar_____shanu | LinkedIn" width="64px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-1024.png" />][instagram]
 [<img align="left" alt="kumar_____shanu | LinkedIn" width="64px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-1024.png" />][twitter]
-[<img align="left" alt="kumar_____shanu | LinkedIn" width="64px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-1024.png" />][gmail]
 <br>
 <br>
 <br>
