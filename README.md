@@ -13,38 +13,46 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kumar_____shanu | LinkedIn" width="28px" src="https://icon-library.com/images/linkedin-vector-icon/linkedin-vector-icon-4.jpg" />][linkedin]
+<br>
 
+[<img align="left" alt="kumar_____shanu | LinkedIn" width="64px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-1024.png" />][linkedin]
+[<img align="left" alt="kumar_____shanu | LinkedIn" width="64px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-1024.png" />][youtube]
+[<img align="left" alt="kumar_____shanu | LinkedIn" width="64px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-1024.png" />][instagram]
+[<img align="left" alt="kumar_____shanu | LinkedIn" width="64px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-1024.png" />][twitter]
+[<img align="left" alt="kumar_____shanu | LinkedIn" width="64px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-1024.png" />][gmail]
 <br>
 <br>
+<br>
+<br>
+
+
 
 ---
 ### Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-<!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-
-    
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<!-- languages and tools -->
 
 
+<img align="left" alt="c++" width="64px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" />
+<img align="left" alt="html" width="64px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-1024.png" />
+<img align="left" alt="css" width="64px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-1024.png" />
 
+<img align="left" alt="javaScript" width="64px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-4096.png" />
 
+![BootStrap icon](https://cdn-icons-png.flaticon.com/64/5968/5968672.png)
 
+<img align="left" alt="jquery" width="64px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-4096.png" />
 
-<br />
+<img align="left" alt="nodejs" width="64px" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-1024.png" />
+<!-- ![Express icon]() -->
+<img align="left" alt="github" width="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-4096.png" />
 
+<img align="left" alt="mongodb" width="64px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/github-repository-svn-manage-files-contribute-branch-1024.png" />
 
+![Postman icon](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+
+<br>
+<br>
 
 
 
@@ -106,3 +114,4 @@
 [youtube]: https://www.youtube.com/channel/UCnT6Z9ay-snq1c0lZkEtYjg
 [instagram]: https://www.instagram.com/kumar_____shanu/
 [linkedin]: https://www.linkedin.com/in/kumar-shanu-011423189/
+[gmail]:kumarshanupersonal@gmail.com
