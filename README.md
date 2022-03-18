@@ -57,11 +57,11 @@
 ### 📺  Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Let&#39;s Create Notion Database for College Classes. @Notion @NotionAtCollege](https://www.youtube.com/watch?v=WNPkhB3eba4)
 - [Learn using Git in local repositories. #Github #Cli](https://www.youtube.com/watch?v=m8gWEF1Y6Ek)
 - [Notion in one shot!! Let&#39;s learn notion in a nutshell! @NotionHQ #learningBasics](https://www.youtube.com/watch?v=4R05b31mIpM)
 - [Free  Open Source Circuit Simulator Falstad #Circuit #simulator](https://www.youtube.com/watch?v=g2GzQ5u3XFQ)
 - [Learn Basic Terminal command. Run python program in terminal and many more #Terminal #Command #Mac](https://www.youtube.com/watch?v=CpqTt2sU_V4)
-- [Transform your terminal according to your desire, noob to pro #Mac #Terminal](https://www.youtube.com/watch?v=291JHWA8ijY)
 <!-- YOUTUBE:END -->
 
 ---
