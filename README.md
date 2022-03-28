@@ -57,11 +57,11 @@
 ### 📺  Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Chapter 2 : Addition, deletion and modification of column, truncating and dropping the table. #DBMS](https://www.youtube.com/watch?v=5BOkmOSgybc)
 - [Chapter 1 : Creating table, insetion of row and displaying the table in Oracle Apex. #ApexOracle](https://www.youtube.com/watch?v=DTwi-jojsqI)
 - [How to create oracle apex workspace for data base management ? #Oracle_Apex #database #DBMS](https://www.youtube.com/watch?v=kCM63DZgR8s)
 - [Let&#39;s Create Notion Database for College Classes. @Notion @NotionAtCollege](https://www.youtube.com/watch?v=WNPkhB3eba4)
 - [Learn using Git in local repositories. #Github #Cli](https://www.youtube.com/watch?v=m8gWEF1Y6Ek)
-- [Notion in one shot!! Let&#39;s learn notion in a nutshell! @NotionHQ #learningBasics](https://www.youtube.com/watch?v=4R05b31mIpM)
 <!-- YOUTUBE:END -->
 
 ---
