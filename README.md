@@ -1,5 +1,5 @@
 ### Hi there, I'm Shanu 👋 
-## I'm an over excited enthusiastic "lover of tech"!
+## I'm an over excited, enthusiastic "lover of tech"!
 
 <br>
 
