@@ -104,6 +104,9 @@
 <a href="https://github.com/Kr-Shanu?tab=followers"><img src="https://img.shields.io/github/followers/Kr-Shanu?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ---
+  
+![](./profile-3d-contrib/profile-night-green.svg)
+  
 
 
 [twitter]: https://twitter.com/kumar_____shanu
