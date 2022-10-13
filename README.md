@@ -107,6 +107,10 @@
   
 ![](./profile-3d-contrib/profile-night-green.svg)
   
+---
+
+### My Holopin Badges
+[![@kumar_____shanu's Holopin board](https://holopin.me/kumar_____shanu)](https://holopin.io/@kumar_____shanu)
 
 
 [twitter]: https://twitter.com/kumar_____shanu
