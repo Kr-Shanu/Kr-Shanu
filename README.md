@@ -113,6 +113,9 @@
 [![@kumar_____shanu's Holopin board](https://holopin.me/kumar_____shanu)](https://holopin.io/@kumar_____shanu)
 
 
+### Hackathon Certificate
+![Certificate DevPost](https://d1zpw5mq5bnzyn.cloudfront.net/images/816e2784f84941128c088e0d6d56b502.jpeg)
+
 [twitter]: https://twitter.com/kumar_____shanu
 [youtube]: https://www.youtube.com/channel/UCnT6Z9ay-snq1c0lZkEtYjg
 [instagram]: https://www.instagram.com/kumar_____shanu/
