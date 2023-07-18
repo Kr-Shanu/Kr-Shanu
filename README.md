@@ -1,5 +1,5 @@
 ### Hi there, I'm Shanu 👋 
-## I'm an over excited, enthusiastic "lover of tech"!
+## Tech is my true passion, and I channel my enthusiasm into delivering exceptional results in my field.
 
 <br>
 
